@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Skrzyński
+    given-names: Jakub
+    orcid: https://orcid.org/0009-0008-4550-5009
+  - family-names: Horzyk
+    given-names: Adrian
+    orcid: https://orcid.org/0000-0001-9001-4198
+title: "Efficient Pruning and Compression Techniques for Convolutional Neural Networks to Preserve Knowledge and Optimize Performance"
+version: 1.0.0
